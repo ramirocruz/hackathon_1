@@ -1,0 +1,10 @@
+{
+  "sensor1": {
+    "sensorType": "humidity_sensor",
+    "manufacturer": "abdc",
+    "id": "1",
+    "ip": "127.0.0.1",
+    "port": "18000",
+    "location": "hyderabad"
+  }
+}
