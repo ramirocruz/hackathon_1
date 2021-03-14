@@ -1,0 +1,41 @@
+{
+  "sensor1": {
+    "sensor_name": "Humidity Sensor",
+    "sensor_data_type": "float",
+    "sensor_location": "None",
+    "manufacturer": "abc",
+    "ip": "None",
+    "port": "None",
+    "class_code": "humidityClient.py",
+    "functions": {
+      "getHumidty": {
+        "params": "None",
+        "returntype": "float"
+      },
+      "setSprinkler": {
+        "params": "None",
+        "returntype": "None"
+      }
+    }
+  },
+
+  "sensor2": {
+    "sensor_name": "PH Sensor",
+    "sensor_data_type": "float",
+    "sensor_location": "None",
+    "manufacturer": "abc",
+    "ip": "None",
+    "port": "None",
+    "class_code": "phClient.py",
+    "functions": {
+      "getPH": {
+        "params": "None",
+        "returntype": "float"
+      },
+      "setSprinkler": {
+        "params": "None",
+        "returntype": "None"
+      }
+    }
+  }
+}

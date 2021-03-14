@@ -1,0 +1,22 @@
+{
+  "sensorType": {
+    "Humidity Sensor": [["127.0.0.1", "18000", "humidityClient.py"]],
+    "PH Sensor": [["127.0.0.1", "18002", "phClient.py"]]
+  },
+  "manufacturer": {
+    "abc": [
+      ["127.0.0.1", "18000", "humidityClient.py"],
+      ["127.0.0.1", "18002", "phClient.py"]
+    ]
+  },
+  "location": {
+    "hyderabad": [["127.0.0.1", "18000", "humidityClient.py"]],
+    "delhi": [["127.0.0.1", "18002", "phClient.py"]]
+  },
+  "randomkey": {
+    "123": [
+      ["127.0.0.1", "18000", "humidityClient.py"],
+      ["127.0.0.1", "18002", "phClient.py"]
+    ]
+  }
+}
