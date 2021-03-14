@@ -5,7 +5,7 @@
         "sensor_location": "None",
         "ip": "None",
         "port": "None",
-        "class_code": "humiditysensor.py",
+        "class_code": "humidityClient.py",
         "functions": {
             "getHumidty": {
                 "params": "None",

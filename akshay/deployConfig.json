@@ -1,0 +1,12 @@
+{
+    "applicationName": "farm control",
+    "user id" : "developer1",
+    "bindings ":{
+        
+            "algorithmClass": "humidityController.py",
+            "sensor params": {
+                "location": "hyderabad"
+            }
+        
+    } 
+}
