@@ -1,0 +1,9 @@
+{
+    "applicationName": "farm control",
+    "user id" : "developer1",
+    "environment" : 
+    {
+        "os": "ubuntu",
+        "language": "python"
+    }
+}

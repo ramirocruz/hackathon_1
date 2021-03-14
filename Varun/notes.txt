@@ -1,0 +1,6 @@
+Tentative binder code :
+
+Get algoClass name , sensor type, ip, port from deploy.config
+Get algo class from app.repo, sensor type class from sensor repo, ip and port
+sensorInstance = sensorTypeName(ip,port)
+algoClass(sensorInstance) → init has the default run function too

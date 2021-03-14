@@ -1,0 +1,17 @@
+{
+    "applicationName": "farm control",
+    "user id" : "developer1",
+    "Number of algorithmClasses" : 2,
+    "comment 1" : "all the below classes should be in app/src folder should be validated ",
+    "algorithmClasses ": 
+    [
+        {
+            "name": "PHController.py",
+            "InputSensorType": "PHSensorInstance"
+        },
+        {
+            "name": "humidityController.py",
+            "InputSensorType": "humiditySensorInstance"
+        }
+    ] 
+}
